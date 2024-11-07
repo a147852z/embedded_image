@@ -1,0 +1,11 @@
+[
+    {
+        "N": 8,
+        "stride": 3,
+        "LBP_RADIUS": 3,
+        "LBP_METHOD": "uniform",
+        "similarity_threshold": 0.5,
+        "road_patch_position": "center_bottom",
+        "road_patch_size": 10
+    }
+]
